@@ -10,7 +10,7 @@ OrderID,Customer,Product,Category,Quantity,Price
 1009,Eva,Notebook,Office Supplies,4,8
 1010,Alice,Wireless Mouse,Electronics,2,25
 1011,Frank,Monitor,Electronics,1,220
-1012,Grace,Desk Lamp,Furniture,1,35
+1012,Grace,Desk Lamp,Furniture,1,35 
 1013,Bob,Keyboard,Electronics,2,60
 1014,David,Notebook,Office Supplies,6,8
 1015,Eva,Laptop Stand,Electronics,1,45
