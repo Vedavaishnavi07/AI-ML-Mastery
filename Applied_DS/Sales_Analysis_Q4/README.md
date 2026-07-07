@@ -17,8 +17,6 @@ This project analyzes regional sales data using the Superstore dataset. The obje
 ## Technologies Used
 
 - Python
-- Pandas
-- Matplotlib
 
 ---
 
