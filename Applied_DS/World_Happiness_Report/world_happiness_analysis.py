@@ -6,7 +6,6 @@ print("WORLD HAPPINESS REPORT ANALYSIS")
 print("=" * 60)
 
 df = pd.read_csv("data/world_happiness_report_2005_2025.csv")
-
 print("\nDataset Loaded Successfully!")
 
 print("\nFirst 5 Rows:\n")
