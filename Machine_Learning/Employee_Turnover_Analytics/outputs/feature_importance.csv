@@ -1,0 +1,11 @@
+Feature,Importance
+StockOptionLevel,0.11380823
+MaritalStatus_Married,0.07068777
+Department_Sales,0.066811375
+JobLevel,0.054786064
+MaritalStatus_Single,0.05308715
+JobRole_Human Resources,0.046312526
+Department_Research & Development,0.04252297
+EducationField_Medical,0.037467487
+JobSatisfaction,0.036298923
+JobRole_Research Scientist,0.03188321
