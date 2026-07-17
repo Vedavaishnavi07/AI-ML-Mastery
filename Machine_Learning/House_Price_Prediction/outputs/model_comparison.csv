@@ -1,0 +1,4 @@
+Model,R2 Score
+Gradient Boosting,0.9047864953287394
+XGBoost,0.8967649936676025
+Random Forest,0.8941513442361082
