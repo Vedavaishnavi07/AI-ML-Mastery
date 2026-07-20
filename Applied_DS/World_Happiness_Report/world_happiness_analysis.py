@@ -169,6 +169,7 @@ plt.title("Social Support vs Happiness")
 plt.xlabel("Social Support")
 plt.ylabel("Happiness Score")
 
+
 plt.tight_layout()
 plt.savefig("images/social_support.png")
 plt.close()

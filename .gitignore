@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .vscode/
 .env
+
+Machine_Learning/Credit_Card_Fraud_Detection/data/creditcard.csv
