@@ -1,6 +1,18 @@
+myenv/
+venv/
 __pycache__/
 *.pyc
-.vscode/
-.env
 
-Machine_Learning/Credit_Card_Fraud_Detection/data/creditcard.csv
+# Ignore datasets
+*.csv
+
+# Ignore virtual environments anywhere
+**/myenv/
+**/venv/
+
+# Ignore only large datasets
+Deep Learning/LendingClub_Loan_Default/data/
+Machine_Learning/Credit_Card_Fraud_Detection/data/
+
+# Ignore only large trained models
+Deep Learning/Image_Classifier/model/
