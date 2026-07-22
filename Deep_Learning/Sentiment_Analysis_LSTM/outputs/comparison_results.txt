@@ -1,0 +1,4 @@
+Bag of Words : 0.8449
+LSTM : 0.8580
+BiLSTM : 0.8450
+GloVe + LSTM : 0.8007

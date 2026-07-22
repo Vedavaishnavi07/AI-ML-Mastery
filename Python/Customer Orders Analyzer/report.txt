@@ -1,0 +1,24 @@
+CUSTOMER ORDER ANALYSIS REPORT
+===================================
+
+Total Orders: 86
+Total Revenue: 7995
+
+Top Products:
+1. Monitor - 2420
+2. Office Chair - 1200
+3. Keyboard - 1080
+4. Laptop Stand - 990
+5. Notebook - 832
+
+Top Customers:
+1. Henry - 660
+2. Zack - 645
+3. Rachel - 460
+4. Victor - 420
+5. Xavier - 396
+
+Category Revenue:
+Electronics - 4990
+Office Supplies - 1000
+Furniture - 2005

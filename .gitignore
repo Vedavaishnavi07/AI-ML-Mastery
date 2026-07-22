@@ -16,3 +16,9 @@ Machine_Learning/Credit_Card_Fraud_Detection/data/
 
 # Ignore only large trained models
 Deep Learning/Image_Classifier/model/
+
+# Large model files
+*.keras
+
+# (optional) generated model directory
+Deep_Learning/**/model/
