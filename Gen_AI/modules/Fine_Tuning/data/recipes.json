@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "How do I make scrambled eggs?",
+    "output": "Beat 2 eggs. Heat butter in a pan. Cook while stirring gently. Add salt and pepper."
+  },
+  {
+    "instruction": "How do I make lemonade?",
+    "output": "Mix fresh lemon juice, cold water and sugar. Stir well. Add ice cubes."
+  },
+  {
+    "instruction": "How do I make fried rice?",
+    "output": "Cook rice first. Stir fry vegetables, add rice, soy sauce, pepper and cook for 5 minutes."
+  },
+  {
+    "instruction": "How do I make pasta?",
+    "output": "Boil pasta until tender. Prepare tomato sauce separately. Mix together and serve with cheese."
+  },
+  {
+    "instruction": "How do I make pancakes?",
+    "output": "Mix flour, milk, eggs and baking powder. Cook small portions on a hot pan until golden."
+  },
+  {
+    "instruction": "How do I make vegetable soup?",
+    "output": "Boil mixed vegetables with garlic, onion and seasoning until soft."
+  },
+  {
+    "instruction": "How do I make chocolate milkshake?",
+    "output": "Blend milk, chocolate syrup, sugar and ice cream until smooth."
+  },
+  {
+    "instruction": "How do I make grilled cheese sandwich?",
+    "output": "Butter bread slices, add cheese and grill until golden brown."
+  },
+  {
+    "instruction": "How do I make pizza dough?",
+    "output": "Mix flour, yeast, water, salt and olive oil. Knead and let rise for one hour."
+  },
+  {
+    "instruction": "How do I make biryani?",
+    "output": "Cook rice separately. Layer rice with spiced chicken or vegetables and steam until fully cooked."
+  }
+]

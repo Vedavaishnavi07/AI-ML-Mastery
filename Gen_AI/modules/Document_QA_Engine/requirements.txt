@@ -1,0 +1,7 @@
+gradio==5.38.2
+openai
+python-dotenv
+langchain
+langchain-community
+langchain-text-splitters
+pypdf
